@@ -8,7 +8,7 @@
 # Installation
 
 1. Clone this repo
-2. Run `go get`
+2. Run `go get` 
 
 # Running
 
